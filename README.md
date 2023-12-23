@@ -1,6 +1,5 @@
 # UBB
 
-
 <ul>
   <li>First Year:
     <ul>
@@ -37,11 +36,27 @@
         <li><a href="https://github.com/giurgiumatei/Web-Programming">Web Programming</a></li>
         <li><a href="https://github.com/giurgiumatei/Artificial-Intelligence">Artificial Intelligence</a></li>
         <li><a href="https://github.com/giurgiumatei/Database-Management-Systems">Database Management Systems</a></li>
-        <li><a href="https://github.com/giurgiumatei/Software-Engineering">Software Engineering</a></li>    
+        <li><a href="https://github.com/giurgiumatei/Software-Engineering">Software Engineering</a></li>
       </ul>
     </li>
   </ul>
   </li>
+  <li>Third Year
+  <ul>
+  <li>:dizzy_face:First Semester:
+  <ul>
+          <li><a href="https://github.com/giurgiumatei/Formal-Languages-and-Compilers-Design">Formal Languages and Compilers Design</a></li>
+          <li><a href="https://github.com/giurgiumatei/Mobile">Mobile Programming</a></li>
+          <li><a href="https://github.com/giurgiumatei/Parallel-And-Distributed-Programming">Parallel and Distributed Programming</a></li>
+          <li><a href="https://github.com/giurgiumatei/Robotic-Process-Automation">Robotic Process Automation</a></li>
+  </ul>
+  </li>
+    <li>:triumph:Second Semester:
+  <ul>
+          <li><a href="https://github.com/giurgiumatei/SSVV">Software Systems Verification and Validation</a></li>
+  </ul>
+  </li>
+  </ul>
+  </li>
   
   </ul>
-  
