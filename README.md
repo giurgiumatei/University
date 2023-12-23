@@ -43,7 +43,7 @@
   </li>
   <li>Third Year
   <ul>
-  <li>:dizzy_face:First Semester:
+  <li>:tired_face:First Semester:
   <ul>
           <li><a href="https://github.com/giurgiumatei/Formal-Languages-and-Compilers-Design">Formal Languages and Compilers Design</a></li>
           <li><a href="https://github.com/giurgiumatei/Mobile">Mobile Programming</a></li>
