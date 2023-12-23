@@ -41,7 +41,7 @@
     </li>
   </ul>
   </li>
-  <li>Third Year
+  <li>Third Year:
   <ul>
   <li>:tired_face:First Semester:
   <ul>
